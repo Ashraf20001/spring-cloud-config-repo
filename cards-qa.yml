@@ -1,7 +1,7 @@
 cards:
   message: "Welcome to EazyBank cards related QA APIs "
   contactDetails:
-    name: "Dragos Lech - Developer"
+    name: "Dragos Lee - Developer"
     email: "dragos@eazybank.com"
   onCallSupport:
     - (412) 419-3491
